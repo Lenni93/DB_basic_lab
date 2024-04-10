@@ -1,14 +1,1 @@
 # DB_basic_lab
- datebase_basic
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MySql</title>
-    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</head>
-<body>
-    
-</body>
-</html>
